@@ -1,0 +1,13 @@
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\bin\Debug\CallSimplaeDLL.exe.config
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\bin\Debug\CallSimplaeDLL.exe
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\bin\Debug\CallSimplaeDLL.pdb
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\bin\Debug\ClassLibrary1_dll.dll
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\bin\Debug\ClassLibrary1_dll.pdb
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\obj\Debug\CallSimplaeDLL.csproj.AssemblyReference.cache
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\obj\Debug\CallSimplaeDLL.Form1.resources
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\obj\Debug\CallSimplaeDLL.Properties.Resources.resources
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\obj\Debug\CallSimplaeDLL.csproj.GenerateResource.cache
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\obj\Debug\CallSimplaeDLL.csproj.CoreCompileInputs.cache
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\obj\Debug\CallSimp.3059960D.Up2Date
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\obj\Debug\CallSimplaeDLL.exe
+E:\App Dev\DLL\ClassLibrary1_dll\CallSimplaeDLL\obj\Debug\CallSimplaeDLL.pdb

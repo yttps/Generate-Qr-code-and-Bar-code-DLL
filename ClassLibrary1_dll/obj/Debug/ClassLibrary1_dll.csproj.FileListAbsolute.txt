@@ -1,0 +1,6 @@
+E:\App Dev\DLL\ClassLibrary1_dll\ClassLibrary1_dll\bin\Debug\ClassLibrary1_dll.dll
+E:\App Dev\DLL\ClassLibrary1_dll\ClassLibrary1_dll\bin\Debug\ClassLibrary1_dll.pdb
+E:\App Dev\DLL\ClassLibrary1_dll\ClassLibrary1_dll\obj\Debug\ClassLibrary1_dll.csproj.AssemblyReference.cache
+E:\App Dev\DLL\ClassLibrary1_dll\ClassLibrary1_dll\obj\Debug\ClassLibrary1_dll.csproj.CoreCompileInputs.cache
+E:\App Dev\DLL\ClassLibrary1_dll\ClassLibrary1_dll\obj\Debug\ClassLibrary1_dll.dll
+E:\App Dev\DLL\ClassLibrary1_dll\ClassLibrary1_dll\obj\Debug\ClassLibrary1_dll.pdb

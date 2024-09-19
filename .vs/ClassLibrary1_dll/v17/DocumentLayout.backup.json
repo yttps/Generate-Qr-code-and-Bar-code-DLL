@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2628E623-FD1A-4989-82C8-07A6E46F2200}|DemoBarCodeQRCode\\DemoBarCodeQRCode.csproj|e:\\app dev\\dll\\classlibrary1_dll\\demobarcodeqrcode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2628E623-FD1A-4989-82C8-07A6E46F2200}|DemoBarCodeQRCode\\DemoBarCodeQRCode.csproj|solutionrelative:demobarcodeqrcode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2628E623-FD1A-4989-82C8-07A6E46F2200}|DemoBarCodeQRCode\\DemoBarCodeQRCode.csproj|E:\\App Dev\\DLL\\ClassLibrary1_dll\\demobarcodeqrcode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2628E623-FD1A-4989-82C8-07A6E46F2200}|DemoBarCodeQRCode\\DemoBarCodeQRCode.csproj|solutionrelative:demobarcodeqrcode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3892F49-85B4-4B8B-BBEC-954804B12F72}|LabCLL_RandomNumber\\LabCLL_RandomNumber.csproj|E:\\App Dev\\DLL\\ClassLibrary1_dll\\labcll_randomnumber\\randomnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3892F49-85B4-4B8B-BBEC-954804B12F72}|LabCLL_RandomNumber\\LabCLL_RandomNumber.csproj|solutionrelative:labcll_randomnumber\\randomnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2304B5D-73BA-461D-A40A-4EFA656E12A4}|DemoWebcam\\DemoWebcam.csproj|E:\\App Dev\\DLL\\ClassLibrary1_dll\\demowebcam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2304B5D-73BA-461D-A40A-4EFA656E12A4}|DemoWebcam\\DemoWebcam.csproj|solutionrelative:demowebcam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4309427-A707-4E60-B62F-1B016C90B2D5}|CallSimplaeDLL\\CallSimplaeDLL.csproj|E:\\App Dev\\DLL\\ClassLibrary1_dll\\callsimplaedll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4309427-A707-4E60-B62F-1B016C90B2D5}|CallSimplaeDLL\\CallSimplaeDLL.csproj|solutionrelative:callsimplaedll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4309427-A707-4E60-B62F-1B016C90B2D5}|CallSimplaeDLL\\CallSimplaeDLL.csproj|E:\\App Dev\\DLL\\ClassLibrary1_dll\\callsimplaedll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4309427-A707-4E60-B62F-1B016C90B2D5}|CallSimplaeDLL\\CallSimplaeDLL.csproj|solutionrelative:callsimplaedll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E154C4F-570B-4E91-B112-63E957BF8BA6}|ClassLibrary1_dll\\ClassLibrary1_dll.csproj|E:\\App Dev\\DLL\\ClassLibrary1_dll\\classlibrary1_dll\\simple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E154C4F-570B-4E91-B112-63E957BF8BA6}|ClassLibrary1_dll\\ClassLibrary1_dll.csproj|solutionrelative:classlibrary1_dll\\simple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandomNumber.cs",
+              "DocumentMoniker": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\LabCLL_RandomNumber\\RandomNumber.cs",
+              "RelativeDocumentMoniker": "LabCLL_RandomNumber\\RandomNumber.cs",
+              "ToolTip": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\LabCLL_RandomNumber\\RandomNumber.cs",
+              "RelativeToolTip": "LabCLL_RandomNumber\\RandomNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:19:07.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\DemoBarCodeQRCode\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoBarCodeQRCode\\Form1.cs",
+              "ToolTip": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\DemoBarCodeQRCode\\Form1.cs",
+              "RelativeToolTip": "DemoBarCodeQRCode\\Form1.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAkwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:47:16.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\DemoBarCodeQRCode\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoBarCodeQRCode\\Form1.cs",
+              "ToolTip": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\DemoBarCodeQRCode\\Form1.cs [Design]",
+              "RelativeToolTip": "DemoBarCodeQRCode\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:46:09.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\DemoWebcam\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoWebcam\\Form1.cs",
+              "ToolTip": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\DemoWebcam\\Form1.cs [Design]",
+              "RelativeToolTip": "DemoWebcam\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:27:14.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\CallSimplaeDLL\\Form1.cs",
+              "RelativeDocumentMoniker": "CallSimplaeDLL\\Form1.cs",
+              "ToolTip": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\CallSimplaeDLL\\Form1.cs",
+              "RelativeToolTip": "CallSimplaeDLL\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:13:50.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\CallSimplaeDLL\\Form1.cs",
+              "RelativeDocumentMoniker": "CallSimplaeDLL\\Form1.cs",
+              "ToolTip": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\CallSimplaeDLL\\Form1.cs [Design]",
+              "RelativeToolTip": "CallSimplaeDLL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:12:52.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Simple.cs",
+              "DocumentMoniker": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\ClassLibrary1_dll\\Simple.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1_dll\\Simple.cs",
+              "ToolTip": "E:\\App Dev\\DLL\\ClassLibrary1_dll\\ClassLibrary1_dll\\Simple.cs",
+              "RelativeToolTip": "ClassLibrary1_dll\\Simple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:08:29.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
